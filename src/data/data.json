@@ -47,33 +47,33 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"I found them very helpful, professional and hard working. I would recommend them to anyone that needs some push in the right direction... or if you need some time off and want to leave your account in good hands.\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"I’ve had the E-Expert team working for me for almost a year. These guys offer exceptional service. I would totally recommend them for all your FBA needs.\"",
+      "name": "Johnathan James"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"I was a little hesitant at first to let go of the reins but am very grateful I forced myself to make the transition. The greatest benefit I have seen so far since working with E-Expert; I have freed up a lot of my time so I can focus on the parts of my business that need me direct attention, which will enable growth. If you are a small eCommerce business owner and are in that space where you need help but are hesitant I would recommend giving E-Expert a chance to provide value, it could be the best decision you make for your business\"",
+      "name": "Robert Joseph"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"E-Expert team is Amazing. I have been working with them for several months and they are very knowledgeable in the e-Commerce world. They are taking my business to new heights. Could not do it without them.\"",
+      "name": "Mary Matthew"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"I am very impressed with E-Expert. They have helped me grow my business in a very short time with PPC campaigns and listing optimization. The prices are very reasonable for knowledge they have on Amazon.\"",
+      "name": "David Joseph"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"I have been working with E-Expert for more than 2 years now and their team is managing all my E-commerce stores. They are the best E-commerce consulting service. Working with them have helped me to focus on strategic part of my business. I have seen significant amount of growth in my business.\"",
+      "name": "Linda Paul"
     }
   ],
   "Team": [
